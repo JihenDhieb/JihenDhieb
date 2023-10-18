@@ -1,4 +1,4 @@
-![logo](https://github.com/jihen213/jihen213/blob/main/learn-coding-automation-just-770x513.jpeg)
+
 <h1 align="center">Hi 👋, I'm jihen dhieb</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 <img align="rigth" alt="coding"="50" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
