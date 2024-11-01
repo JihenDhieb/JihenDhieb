@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Tunisia</h3>
 <p align="center">With expertise in both web and mobile development, I specialize in building dynamic, user-friendly applications using technologies like Angular, TypeScript, Flutter, and Spring Boot.</p>
 
-<img align="right" alt="coding" width="300" height="200" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
